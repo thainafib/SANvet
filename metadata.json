@@ -1,0 +1,6 @@
+{
+  "name": "Celtz® Vet - Guia Técnico & Calculadora de Doses",
+  "description": "Aplicativo técnico oficial para consulta rápida de protocolos, recomendação por desafio e calculadora de dosagem das soluções Celtz® (SAN Vet) para Avicultura e Suinocultura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
